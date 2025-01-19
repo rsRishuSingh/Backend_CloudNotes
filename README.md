@@ -1,7 +1,7 @@
 # Notes App API
 
 This is a backend API for a Notes application built using **Express.js**, **MongoDB**, **JWT Authentication**, **Bcrypt** for password hashing, and **Mongoose** for database interaction. The application allows users to register, log in, manage their notes (create, fetch, update, delete), and store their information securely.
-This project has deployed via (https://render.com/)
+This project has been deployed via (https://render.com/)
 ## Features
 
 - **User Registration**: Allows new users to create an account with a validated email and password.
